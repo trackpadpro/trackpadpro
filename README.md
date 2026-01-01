@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trackpadpro&count_private=true&show_icons=true&theme=dark&layout=compact)](https://github.com/trackpadpro?tab=repositories)
+Side projects for when I'm not working on embedded systems or hardware
